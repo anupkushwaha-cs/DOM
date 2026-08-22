@@ -1,5 +1,4 @@
 
-
 let input = document.querySelector("input");
 let btn = document.querySelector("button");
 let ul = document.querySelector("ul");
